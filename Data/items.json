@@ -1,1 +1,11 @@
-
+[
+    {"name": "Christmas Tree", "price": "$50" },
+    {"name": "Ornaments", "price": "$50" },
+    {"name": "Wreaths", "price": "$30" },
+    {"name": "Stockings", "price": "$80" },
+    {"name": "TableTop Tree", "price": "$50" },
+    {"name": "Light Strings", "price": "$50" },
+    {"name": "Ribbon", "price": "$30" },
+    {"name": "Christmas Candle", "price": "$80" }
+  ]
+  
